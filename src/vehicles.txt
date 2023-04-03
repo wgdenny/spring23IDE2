@@ -1,0 +1,30 @@
+IDE 2 vehicles used
+
+2023 RAM 1500: MPG: 21.5, Payment: $1323.00
+https://www.edmunds.com/ram/1500/2023/vin/1C6SRFJM8PN548934/?radius=100
+
+2023 GMC Sierra 1500HD: MPG:18.50, Payment $1137.00
+https://www.edmunds.com/gmc/sierra-1500/2023/vin/3GTUUDE86PG203279/?radius=100
+
+2021 Chevrolet Suburban: MPG 17, Payment $1321.00
+https://www.edmunds.com/chevrolet/suburban/2021/vin/1GNSKCKT1MR432844/?radius=100
+
+2023 Nissan ARIYA: Payment $849.00
+https://www.edmunds.com/nissan/ariya/2023/vin/JN1AF0BA0PM406553/?radius=100
+
+2021 Porsche Taycan: Payment: $2856.00
+https://www.edmunds.com/porsche/taycan/2021/vin/WP0AC2Y1XMSA62488/?radius=100
+
+2022 Mercedes-Benz EQS: Payment $2332.00
+https://www.edmunds.com/mercedes-benz/eqs/2022/vin/W1KCG5FB3NA010141/?radius=100
+
+2023 Kia Forte: MPG: 33.5, Payment $402.00
+https://www.edmunds.com/kia/forte/2023/vin/3KPF24ADXPE600720/?radius=100
+
+2023 Toyota Corolla: MPG: 37.5, Payment: $430.00
+https://www.edmunds.com/toyota/corolla/2023/vin/5YFB4MDE0PP021375/?radius=100
+
+2023 Toyota Crown: MPG: 41.5, Payment: $990.00
+https://www.edmunds.com/toyota/crown/2023/vin/JTDAAAAF3P3001260/?radius=100
+
+

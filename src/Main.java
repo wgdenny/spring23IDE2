@@ -23,23 +23,23 @@ public class Main {
         System.out.println("***** Calculation Results *****");
         float weeksInMonth = 4.3f;
         Double milesMonthly = weeksInMonth * milesWeekly;
-        Gas car1 = new Gas("2020 Toyota Camery:", 467.00, 34.5);
+        Gas car1 = new Gas("2023 Kia Forte:", 402.00, 33.5);
         car1.setTotalMonthlyCost(milesMonthly, gasCost);
-        Electric car2 = new Electric("2019 Tesla Model 3:", 1002.00);
+        Electric car2 = new Electric("2023 Nissan ARIYA:", 849.00);
         car2.setTotalEMonthlyCost(milesMonthly, electricityPerMile);
-        Gas car3 = new Gas("2019 Toyota Prius:", 583.00, 50.0);
+        Gas car3 = new Gas("2023 Toyota Corolla:", 402.00, 37.5);
         car3.setTotalMonthlyCost(milesMonthly, gasCost);
-        Diesel car4 = new Diesel("2018 GMC Canyon:", 789.00, 23.00);
+        Diesel car4 = new Diesel("2023 RAM 1500:", 1323.00, 21.50);
         car4.setTotalDMonthlyCost(milesMonthly, dieselCost);
-        Electric car5 = new Electric("2022 Chevrolet Bolt EUV:", 678.00);
+        Electric car5 = new Electric("2021 Porsche Taycan:", 2856.00);
         car5.setTotalEMonthlyCost(milesMonthly, electricityPerMile);
-        Electric car6 = new Electric("2021 Ford Mustang Mach-E:", 1390.00);
+        Electric car6 = new Electric("2022 Mercedes-Benz EQS:", 2332.00);
         car6.setTotalEMonthlyCost(milesMonthly, electricityPerMile);
-        Gas car7 = new Gas("2020 Niro Hybrid:", 596.00, 42.5);
+        Gas car7 = new Gas("2023 Toyota Crown:", 990.00, 41.5);
         car7.setTotalMonthlyCost(milesMonthly, gasCost);
-        Diesel car8 = new Diesel("2018 RAM 1500 4WD:", 898.00, 26.00);
+        Diesel car8 = new Diesel("2023 GMC Sierra 1500HD:", 1137.00, 18.50);
         car8.setTotalDMonthlyCost(milesMonthly, dieselCost);
-        Diesel car9 = new Diesel("2008 Trident Iceni:", 2489.00, 57.00);
+        Diesel car9 = new Diesel("2021 Chevrolet Suburban:", 1321.00, 17.00);
         car9.setTotalDMonthlyCost(milesMonthly, dieselCost);
 
 
