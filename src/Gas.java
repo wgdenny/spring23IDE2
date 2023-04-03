@@ -55,7 +55,7 @@ public class Gas {
     //overide java toString() method
     @Override
     public String toString(){
-        return "\n" + carName + " Total Monthly Costs: " + totalMonthlyCost;
+        return carName + " Total Monthly Costs: " + totalMonthlyCost;
 
     }
 
